@@ -1,6 +1,12 @@
 {
-  "oi": "Oi! Tudo bem com você?",
-  "quem é você": "Sou a JJ, sua assistente virtual!",
-  "qual o seu nome": "JJ, prazer em te conhecer!",
-  "tudo bem": "Tudo ótimo por aqui! E com você?"
+  "qual o seu nome": "Meu nome é JJ, sua assistente virtual técnica.",
+  "quem é você": "Sou uma assistente projetada para fornecer respostas precisas e executar tarefas com base em comandos.",
+  "qual sua função": "Minha função é analisar, processar e responder com clareza técnica e eficiência.",
+  "o que você pode fazer": "Posso executar análises, responder perguntas, buscar informações, interagir com sistemas e aprender novos comandos.",
+  "qual a linguagem de programação mais usada": "Atualmente, Python é uma das linguagens mais utilizadas devido à sua versatilidade e simplicidade.",
+  "explique inteligência artificial": "Inteligência artificial é o ramo da ciência da computação que se dedica à criação de sistemas capazes de simular comportamentos inteligentes.",
+  "como funciona o aprendizado de máquina": "O aprendizado de máquina consiste em algoritmos que analisam dados, aprendem padrões e fazem previsões ou decisões com base nesses dados.",
+  "o que é api": "API é uma interface que permite a comunicação entre dois sistemas de forma padronizada.",
+  "como usar openai api": "Você precisa de uma chave de API válida e enviar requisições HTTP para os endpoints definidos com o modelo desejado.",
+  "me diga o horário atual": "Função de horário ainda não implementada localmente. Posso buscar essa informação externamente."
 }
