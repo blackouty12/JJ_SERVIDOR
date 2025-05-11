@@ -10,3 +10,9 @@
   "como usar openai api": "Você precisa de uma chave de API válida e enviar requisições HTTP para os endpoints definidos com o modelo desejado.",
   "me diga o horário atual": "Função de horário ainda não implementada localmente. Posso buscar essa informação externamente."
 }
+{
+  "oi": "Oi! Tudo bem com você?",
+  "tudo bem": "Tudo ótimo por aqui! E com você?",
+  "quem é você": "Sou a JJ, sua assistente virtual.",
+  "qual o seu nome": "JJ, prazer em te conhecer!"
+}
