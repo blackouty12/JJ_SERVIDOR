@@ -1,11 +1,14 @@
 from flask import Flask, request, jsonify
 from difflib import get_close_matches
 import json
+import os
 import openai
+
+# Pegue sua chave da variável de ambiente no Render
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 app = Flask(__name__)
 ARQUIVO_CONHECIMENTO = "conhecimento.json"
-openai.api_key = "SUA_CHAVE_AQUI"  # <- Substitua pela sua API Key
 
 def carregar_conhecimento():
     try:
